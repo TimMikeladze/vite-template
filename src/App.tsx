@@ -1,7 +1,9 @@
+import External from "../external"
+
 function App() {
   return (
     <>
-      {/* TODO: Add your code here */}
+      <External />
     </>
   )
 }
