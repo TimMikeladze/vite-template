@@ -1,10 +1,9 @@
-// import External from "../external"
+import External from "../external"
 
 function App() {
   return (
     <>
-    foo
-      {/* <External /> */}
+      <External />
     </>
   )
 }
